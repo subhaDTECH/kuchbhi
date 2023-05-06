@@ -14,6 +14,8 @@ const students=[
 
 ]
 
+console.log("some new code added ");
+
 const a=students.filter((student)=>{
      
     return student.email!=="suva@gmail.com";
